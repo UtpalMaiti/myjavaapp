@@ -6,6 +6,12 @@ public class Simple{
         
           System.out.println("Hello Utpal");  
           System.out.println("Welcome to Git");  
+        System.out.println("Hello Utpal");  
+          System.out.println("Welcome to Git");
+        System.out.println("Hello Utpal");  
+          System.out.println("Welcome to Git");
+        System.out.println("Hello Utpal");  
+          System.out.println("Welcome to Git");
     }  
 }  
 
