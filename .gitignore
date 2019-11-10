@@ -1,0 +1,8 @@
+access.log
+
+*.log
+*.pdf
+*.cert
+*.key
+
+
