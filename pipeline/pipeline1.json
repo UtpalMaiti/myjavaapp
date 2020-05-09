@@ -16,7 +16,13 @@
 				"userProperties": [],
 				"typeProperties": {
 					"packageLocation": {
-						"type": "File"
+						"packagePath": null,
+						"type": "File",
+						"typeProperties": {
+							"accessCredential": {
+								"domain": "Azure"
+							}
+						}
 					}
 				}
 			}
